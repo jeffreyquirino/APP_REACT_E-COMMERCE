@@ -1,7 +1,7 @@
 import React from 'react'; //Importando o React native para poder importar os componentes. 
 import { View, Text, StyleSheet} from 'react-native'; //Importando algumas tags específicas do react native 
 
-//Criando o primeiro componente "App" em forma de função:
+//Criando o primeiro componente "App" em forma de função a:
 export default function App() { 
   return(
   //Container do jsx(o jsx so é reconhecido porque importamos o REACT).   
